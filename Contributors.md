@@ -1,5 +1,5 @@
 # Contributors
-
+- [Pragathi Reddy](https://github.com/pragathi2005)
 - [RachitPatekar7](https://github.com/RachitPatekar7)
 - [Suhail](https://github.com/suhailchoudhary)
 - [RifkiFrdsS](https://github.com/RifkiFrds/)
